@@ -5,7 +5,7 @@ import { faCocktail } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
-  imports: [MatSlideToggleModule, FontAwesomeModule],
+  imports: [ MatSlideToggleModule, FontAwesomeModule ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
